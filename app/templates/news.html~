@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% import "_macros.html" as macros %}
+
+{% block title %}NOFunNOGain{% endblock %}
+{% block page_content %}
+<li class="post">
+<div class="post-date">2016-04-15</div>
+    <div class="post-body">
+  <a href=http://www.baidu.com/link?url=7aMwO7CmuM728eTvlWNUSVThAcadn43GMakLfT5kQ23LPMwmrRj1XYE8wMLcjl3XIqaBR-LNW0U0ua5XtwD-ta&wd=&eqid=ffcf92c10002ad51000000035711dcad><h3>金正恩参谒太阳宫 纪念金日成诞辰104周年</h3></a>
+</div>
+
+</li>
+<li class="post">
+<div class="post-date">2016-04-15</div>
+<div class="post-body">
+  <a href=http://www.baidu.com/link?url=cFh_BGVtmGkdqbwD_Q91T5B69o-2hple8NsRKkHStPiBUrcNqNaETGyjO14SJLbdphjNLe3NBKYi7ieBKX2b2a&wd=&eqid=ffcf92c10002ad51000000035711dcad><h3>金正恩当代表 5月开第七次党代会</h3></a>
+</div>
+</li>
+{% endblock %}
+
