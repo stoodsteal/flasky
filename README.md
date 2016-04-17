@@ -1,2 +1,2 @@
 # flasky
-a flasky blog example
+a python-flask blog example
